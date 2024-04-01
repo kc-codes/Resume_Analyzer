@@ -298,4 +298,4 @@ If you want the full report of project
 
 ![Screenshot](https://github.com/kc-codes/Resume_Analyzer/blob/main/screenshots/admin/7-pielocation.png?raw=true)
 
-### Built with 🤍 AI RESUME ANALYZER by <a href="https://www.linkedin.com/in/kunal23/">Deepak Padhi</a>
+### Built with 🤍 AI RESUME ANALYZER by <a href="https://www.linkedin.com/in/kunal23/">Kunal Chaudhari</a>
